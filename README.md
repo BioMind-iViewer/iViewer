@@ -11,6 +11,7 @@
 - 支持macOS11及以上，推荐macOS13及以上
 - 支持windows7及以上，推荐windows10及以上
 - 支持Ubuntu 22.04 LTS及以上
+- 支持Android 13及以上
 
 ## 声明
 
